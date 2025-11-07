@@ -1,0 +1,18 @@
+# Choose any 3 (or more) Apache projects.
+# You can replace these with others like HBASE, HIVE, CASSANDRA, ZOOKEEPER, KAFKA, etc.
+projects:
+  - HADOOP
+  - HBASE
+  - HIVE
+
+# Output directory for JSONL files
+output_dir: data
+
+# Number of issues to fetch per page from Jira's REST API (max ~1000, safe 100)
+page_size: 100
+
+# Rate-limit/backoff settings
+retry:
+  max_retries: 5          # total attempts per request
+  base_sleep_seconds: 2   # initial backoff
+  max_sleep_seconds: 60   # cap backoff
