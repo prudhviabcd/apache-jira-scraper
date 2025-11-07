@@ -1,6 +1,6 @@
 # 🧠 Apache JIRA → JSONL Scraper (Technical Assignment Submission)
-### Candidate: **Prudhvi Raj**
-### Repository: [
+### Candidate: **palaji Prudhvi Raj**
+### Repository: [https://github.com/prudhviabcd/apache-jira-scraper.git]
 
 ---
 
@@ -158,15 +158,13 @@ Due to GitHub’s 25MB file upload limit, the full dataset (≈900MB JSONL) is s
 ---
 
 ## 📥 Repository Access
-🔗 **GitHub Repo:** [https://github.com/prudhvilabcd/apache-jira-scraper](https://github.com/prudhvilabcd/apache-jira-scraper)  
+🔗 **GitHub Repo:** [https://github.com/prudhvilabcd/apache-jira-scraper](https://github.com/prudhviabcd/apache-jira-scraper.git)  
 
 
 ---
 
 ## 👨‍💻 Author
-**Name:** Prudhvi Raj  
-**Role:** M.Tech (CSE) Student, NIT Delhi  
-**Focus Areas:** AI, ML, and Data Mining  
+**Name:**palaji Prudhvi Raj  
 
 ---
 
