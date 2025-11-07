@@ -1,6 +1,6 @@
 # 🧠 Apache JIRA → JSONL Scraper (Technical Assignment Submission)
 ### Candidate: **Prudhvi Raj**
-### Repository: [https://github.com/prudhvilabcd/apache-jira-scraper](https://github.com/prudhvilabcd/apache-jira-scraper)
+### Repository: [
 
 ---
 
@@ -153,13 +153,13 @@ This will generate files under `/data/{PROJECT}.json` and update `/checkpoints/{
 
 ## 📂 Data Access (Google Drive)
 Due to GitHub’s 25MB file upload limit, the full dataset (≈900MB JSONL) is stored here:  
-📎 **[Google Drive Link – Data Folder](https://drive.google.com/drive/folders/1hkzbmajJ4ofY4zS58_hg-Z90mP3xjit?usp=sharing)**  
+📎 **[Google Drive Link – Data Folder](https://drive.google.com/drive/folders/1hKWzbm4jj40fY4zSs8_hg-z9omPaJxit?usp=sharing)**  
 
 ---
 
 ## 📥 Repository Access
 🔗 **GitHub Repo:** [https://github.com/prudhvilabcd/apache-jira-scraper](https://github.com/prudhvilabcd/apache-jira-scraper)  
-📦 **ZIP Download:** [Click to Download ZIP](https://github.com/prudhvilabcd/apache-jira-scraper/archive/refs/heads/main.zip)
+
 
 ---
 
